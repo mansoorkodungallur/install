@@ -5,7 +5,7 @@ sudo apt-get install vim terminator -y
 #to install code-block latest
 
 #for latest verion
-sudo add-apt-repository ppa:damien-moore/codeblocks-stable
+sudo add-apt-repository ppa:damien-moore/codeblocks-stable -y
 sudo apt-get update -y
 sudo apt-get install -y codeblocks
 sudo apt-get update -y
