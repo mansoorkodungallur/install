@@ -1,5 +1,5 @@
 sudo apt-get update -y
-sudo apt-get install vim terminator 
+sudo apt-get install vim terminator -y 
 
 
 #to install code-block latest
