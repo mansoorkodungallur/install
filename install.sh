@@ -21,4 +21,4 @@ echo -e "\033[0;31m>>>To enable Debgger do below step \033[0m"
 echo -e "\033[0;32m   >>>In codeblocks IDE->Settings->Debugger->Default\033[0m"
 echo -e "\033[0;32m      >>>Uncheck this option: Disable Startup scripts\033[0m"
 
-
+nautilus -q && nautilus &
