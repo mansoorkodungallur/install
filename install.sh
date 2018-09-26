@@ -1,5 +1,6 @@
+#for ubuntu 14.04
 sudo apt-get update -y
-sudo apt-get install vim gcc install build-essential terminator nautilus-open-terminal -y 
+sudo apt-get install vim gcc  build-essential terminator nautilus-open-terminal -y 
 
 
 #to install code-block latest
