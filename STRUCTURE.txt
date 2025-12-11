@@ -1,0 +1,59 @@
+doha-offers-mvp/
+│
+├── 📁 backend/
+│   ├── 📁 data/
+│   │   └── offers.json              # 16 sample offers
+│   ├── 📁 src/
+│   │   └── server.js                # Express API server
+│   ├── package.json
+│   └── package-lock.json
+│
+├── 📁 frontend/
+│   ├── 📁 public/
+│   ├── 📁 src/
+│   │   ├── 📁 components/
+│   │   │   ├── Header.jsx
+│   │   │   ├── Header.css
+│   │   │   ├── SearchBar.jsx
+│   │   │   ├── SearchBar.css
+│   │   │   ├── Filters.jsx
+│   │   │   ├── Filters.css
+│   │   │   ├── OfferCard.jsx
+│   │   │   └── OfferCard.css
+│   │   ├── App.jsx                  # Main component
+│   │   ├── App.css
+│   │   ├── index.css                # Global styles
+│   │   └── main.jsx                 # Entry point
+│   ├── index.html
+│   ├── vite.config.js
+│   ├── package.json
+│   └── package-lock.json
+│
+├── 📁 logs/
+│   └── README.md
+│
+├── 📄 Documentation/
+│   ├── README.md                    # Main documentation
+│   ├── QUICKSTART.md               # 5-minute setup
+│   ├── FEATURES.md                 # Feature details
+│   ├── DEPLOYMENT.md               # Deploy guides
+│   ├── CONTRIBUTING.md             # How to contribute
+│   ├── ARCHITECTURE.md             # System design
+│   ├── CHANGELOG.md                # Version history
+│   ├── PROJECT_SUMMARY.md          # Executive summary
+│   └── API.md                      # API reference
+│
+├── 🔧 Configuration/
+│   ├── .gitignore
+│   ├── package.json                # Root package
+│   └── LICENSE
+│
+├── 🚀 Scripts/
+│   ├── start.sh                    # Start both servers
+│   └── verify.sh                   # Verify setup
+│
+└── 📝 Legacy/
+    ├── install.sh                  # Original Ubuntu setup
+    └── STRUCTURE.txt               # This file
+
+Total: 35+ files (excluding node_modules and build artifacts)
